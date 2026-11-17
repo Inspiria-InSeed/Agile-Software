@@ -1,0 +1,1 @@
+"""Inseed FastAPI application package."""
