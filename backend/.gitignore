@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+build/
+*.tsbuildinfo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Testing
+coverage/
+
+# Logs
+*.log
